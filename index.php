@@ -17,10 +17,10 @@ function lfc_login_page(){
     ?>
     <style type="text/css">
      #login h1 a, .login h1 a {
-        background-image: url(<?php echo plugin_dir_url(__FILE__).'/assets/img/logo.png' ?>);
+        background-image: url(<?php echo plugin_dir_url(__FILE__).'/assets/img/wp-logo.png' ?>);
 		height:165px;
-		width:320px;
-		background-size: 320px 165px;
+		width:250px;
+		background-size: 180px 165px;
 		background-repeat: no-repeat;
         padding-bottom: 30px;
         }
