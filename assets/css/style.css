@@ -1,0 +1,40 @@
+body.login {
+    background-color: rgb(95, 238, 238);
+}
+body.login div#login {
+    background-color: rgb(11, 173, 173);
+    box-shadow: 1px 1px 8px 7px rgb(2, 66, 66);
+    padding: 10px;
+    border-radius: 8px;
+    margin-top: 12px;
+}
+body.login div#login h1 {}
+body.login div#login h1 a {}
+body.login div#login form#loginform {
+    background-color: rgb(3, 43, 43);
+    color: wheat;
+    border-radius: 7px;
+    border: none;
+}
+body.login div#login form#loginform p {
+    text-align: center;
+}
+body.login div#login form#loginform p label {}
+body.login div#login form#loginform input {}
+body.login div#login form#loginform input#user_login {}
+body.login div#login form#loginform input#user_pass {}
+body.login div#login form#loginform p.forgetmenot {}
+body.login div#login form#loginform p.forgetmenot input#rememberme {}
+body.login div#login form#loginform p.submit {}
+body.login div#login form#loginform p.submit input#wp-submit {}
+body.login div#login p#nav {}
+body.login div#login p#nav a {
+    color: rgb(99, 3, 3);
+    font-size: 19px;
+    font-weight: 500;
+}
+body.login div#login p#backtoblog {}
+body.login div#login p#backtoblog a {}
+.user-pass-wrap{
+    text-align: center;
+}
